@@ -1,0 +1,25 @@
+name: GamePyong
+title: GamePyong | Indie Game Developer from Trinidad
+description: GamePyong is an independent video game developer
+tags:
+  - blog
+  - games
+  - game development
+  - godot
+  - phaser
+show_hero: false
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+email: gamepyong@gmail.com
+# See: https://disqus.com/
+disqus_username: disqus_username
+# Contact Form Setting
+# See: https://formspree.io/
+formspree_form_id: formspree_form_id
+paginate: 12
+version: 1.0.0
