@@ -1,5 +1,5 @@
 name: GamePyong
-title: GamePyong | Indie Game Developer from Trinidad
+title: GamePyong | Blog
 description: GamePyong is an independent video game developer
 tags:
   - blog
@@ -22,4 +22,3 @@ disqus_username: disqus_username
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
 paginate: 12
-version: 1.0.0
