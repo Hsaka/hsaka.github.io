@@ -41,6 +41,6 @@ Once I was fairly satisfied with my Godot learnings, I felt like the best way to
 
 Although the game is not yet finished (we are still a few weeks away from the end of the jam), I still have that same feeling of empowerment as we wrap up development. I'm a firm believer in using the right tool for the job at hand, and for me, Godot has become my goto tool for 2D game development; it's simply a pleasure to use.
 
-We're currently developing the game here: [Shoot Into The Void](https://gameboymarcus.itch.io/shoot-into-the-void) It's constantly being updated as we polish it up for the end of the jam. Please try it out and give us your feedback!
+We're currently developing the game here: [Shoot Into The Void](https://gameboymarcus.itch.io/shoot-into-the-void). It's constantly being updated as we polish it up for the end of the jam. Please try it out and give us your feedback!
 
 ![placeholder](/assets/img/blog%20resources/getting-into-godot/4-shoot-into-the-void.jpg "Shoot Into The Void")
