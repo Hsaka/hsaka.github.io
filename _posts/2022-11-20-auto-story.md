@@ -3,7 +3,7 @@ date: 2022-08-10 12:17:22
 layout: post
 title: "Auto Story"
 subtitle: A tool for interactive story-telling
-description: Making story-telling fun again
+description: Making interactive story-telling fun again
 image: /assets/img/covers/auto-story-big.jpg
 optimized_image: /assets/img/covers/auto-story-opt.jpg
 category: experiments
