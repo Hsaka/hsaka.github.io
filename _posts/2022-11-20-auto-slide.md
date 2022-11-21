@@ -17,7 +17,7 @@ After building [Auto Story](https://hsaka.github.io/auto-story/) for helping wil
 
 ## The Motivation
 
-I'm pretty bad at presentations. The introvert in me freezes my brain while I'm in the middle of speaking, causing me to lose my train of thought. I tend to have to script my presentations out so I know exactly what to say next. The motivation for Auto Slide came from wondering whether my scripts could be automatically parsed and produce a slide deck for me, without requiring my input. In thinking about the idea a bit more, I realized that I didn't need to limit Auto Slide to parsing scripts at all, instead I could simply do some speech-to-text recognition and build the slides on the fly. This way, natural speech givers could also use Auto Slide as a companion to display graphics based on what they were saying.
+I'm pretty bad at presentations. The introvert in me freezes my brain while I'm in the middle of speaking, causing me to lose my train of thought. I tend to have to script my presentations out so I know exactly what to say next. The motivation for Auto Slide came from wondering whether my scripts could be automatically parsed and produce a slide deck for me, without requiring my input. In thinking about the idea a bit more, I realized that I didn't need to limit Auto Slide to parsing scripts at all, instead, I could simply do some speech-to-text recognition and build the slides on the fly. This way, natural speech givers could also use Auto Slide as a companion to display graphics based on what they were saying.
 
 ![placeholder](/assets/img/blog%20resources/auto-slide/1-speech.jpg "Speech")
 
