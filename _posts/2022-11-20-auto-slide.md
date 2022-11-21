@@ -8,7 +8,7 @@ image: /assets/img/covers/auto-slide-big.jpg
 optimized_image: /assets/img/covers/auto-slide-opt.jpg
 category: experiments
 tags:
-  - phaser
+  - web
 author: hsaka
 paginate: false
 ---
