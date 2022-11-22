@@ -8,7 +8,7 @@ image: /assets/img/covers/card-pyong-big.jpg
 optimized_image: /assets/img/covers/card-pyong-opt.jpg
 category: gamedev
 tags:
-  - caribgames
+  - postmortem
   - libgdx
 author: hsaka
 paginate: false
